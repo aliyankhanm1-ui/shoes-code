@@ -1,0 +1,47 @@
+body{
+background-color: aliceblue;
+
+
+}
+.parchment-container {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcTnvsS_ZaCX0JWWH3zTlCALbssn0VX7dYw&s);
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    width: 80%;               
+    max-width: 800px;         
+    min-height: 600px;        
+    margin: 50px auto;       
+    
+    display: flex;            
+    justify-content: center;
+    align-items: center;
+    
+    padding: 100px 80px;            
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5); 
+}
+
+.essay-box {
+    text-align: center;
+    width: 60%;
+    bottom: 2em;               
+}
+
+.essay-title {
+    font-family: 'Georgia', serif;
+    color: #4b3621;           
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+bottom: 2em;
+}
+
+.essay-content {
+    font-family: 'Times New Roman', serif;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color:black;
+    text-align: justify;      
+font-weight: bold;
+}
