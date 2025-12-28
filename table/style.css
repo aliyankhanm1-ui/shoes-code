@@ -3,7 +3,6 @@ justify-content: center;
 }
 table{
 position: relative;
-border: 1px solid black;
 justify-content: center;
 height: 25%;
 left: 32%;
@@ -11,7 +10,8 @@ left: 32%;
 td{
 border: 1px solid black;
 justify-content: center;
-
+color: rgb;
+width: 6px;
 
 }
 h1{
